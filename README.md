@@ -1,2 +1,2 @@
 # factor_platform
-DolphinDB finance factor platform
+DolphinDB Quant Factor Platform
